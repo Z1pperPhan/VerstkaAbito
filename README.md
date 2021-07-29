@@ -1,2 +1,2 @@
 # VerstkaAbito
-Verstka saita Abito (HTML, CSS, JS)
+Verstka site Abito (HTML, CSS, JS)
